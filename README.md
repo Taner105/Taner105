@@ -41,8 +41,9 @@
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/Taner105/
 [python]: https://www.python.org/
+[css]:
 
 <br />
 
