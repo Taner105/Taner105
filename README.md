@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Taner
 
-- 🔭 I’m currently working on E-Commerce MERN project
+- 🔭 I’m currently working on Ad Market Site project
 - 👨‍💻 All of my projects are available at https://github.com/Taner105
 - 🌱 I’m currently learning Redux-Saga
 
